@@ -28,9 +28,9 @@
     }
 
     .button-group button {
-      border: 2px solid black;
+      border: 2px solid #041E42;
       background-color: white; /* Matches body background */
-      color: black;
+      color: #041E42;
       width: 200px;
       font-weight: bold;
       margin: 30px 0; /* Increased vertical spacing */
