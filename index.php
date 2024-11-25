@@ -42,7 +42,7 @@
 
 <body>
   <div class="container">
-    <h1>Welcome!</h1>
+    <h1>Welcome to UTEP's CS Opportunities Hub!</h1>
 
     <div class="button-group">
       <button class="btn" onclick="location.href='login_opportunities.php'">
