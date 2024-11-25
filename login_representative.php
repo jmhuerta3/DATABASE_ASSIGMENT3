@@ -20,6 +20,7 @@
     }
 
     .login-container {
+      position: relative; /* Ensure it uses flex positioning */
       background-color: white;
       border: 2px solid #041E42; /* Navy border */
       border-radius: 8px;
@@ -55,6 +56,11 @@
     .form-control {
       border: 1px solid #041E42; /* Navy border */
     }
+
+    h2 {
+      font-weight: bold;
+    }
+    
   </style>
 </head>
 
