@@ -28,7 +28,7 @@
       color: black;
       width: 200px;
       font-weight: bold;
-      margin: 75px 0;
+      margin: 250px 0;
       transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth scaling and shadow effect */
     }
 
