@@ -24,16 +24,17 @@
 
     .button-group button {
       border: 2px solid black;
-      background-color: #f0f8ff;
+      background-color: #f0f8ff; /* Matches body background */
       color: black;
       width: 200px;
       font-weight: bold;
       margin: 10px 0;
+      transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth scaling and shadow effect */
     }
 
     .button-group button:hover {
-      background-color: #f0f8ff; /* Same as body background */
-      color: black;
+      transform: scale(1.3); /* Increases size by 10% */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
       cursor: pointer;
     }
   </style>
