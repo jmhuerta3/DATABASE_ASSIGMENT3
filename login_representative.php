@@ -11,7 +11,7 @@
 
   <style>
     body {
-      background-color: rgba(255, 130, 0, 0.75); /* UTEP orange background color with 75% opacity */
+      background-color: #FF8200 /* UTEP orange background */
       display: flex;
       justify-content: center;
       align-items: center;
