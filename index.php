@@ -22,7 +22,7 @@
 
 </head>
 
-<body>
+<body style="background-color: #f0f8ff;"> <!-- Light blue background -->
   <div style="margin-top: 20px" class="container">
     
     <h1>Welcome!</h1>
