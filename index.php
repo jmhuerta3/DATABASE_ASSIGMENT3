@@ -28,12 +28,12 @@
       color: black;
       width: 200px;
       font-weight: bold;
-      margin: 10px 0;
+      margin: 30px 0;
       transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth scaling and shadow effect */
     }
 
     .button-group button:hover {
-      transform: scale(1.1); /* Increases size by 10% */
+      transform: scale(1.15); /* Increases size by 15% */
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
       cursor: pointer;
     }
