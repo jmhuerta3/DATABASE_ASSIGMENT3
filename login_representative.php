@@ -11,7 +11,7 @@
 
   <style>
     body {
-      background-color: rgba(255, 130, 0, 1); /* Orange background with 75% opacity */
+      background-color: rgba(255, 130, 0, 0.75); /* Orange background with 75% opacity */
       display: flex;
       justify-content: center;
       align-items: center;
@@ -20,7 +20,6 @@
     }
 
     .login-container {
-      position: relative; /* Ensure it uses flex positioning */
       background-color: white;
       border: 2px solid #041E42; /* Navy border */
       border-radius: 8px;
