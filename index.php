@@ -25,7 +25,7 @@
 <body>
   <div style="margin-top: 20px" class="container">
     
-    <h1>Welcome</h1>
+    <h1>Welcome!</h1>
     
     <div class="button-group">
       <button class="btn btn-primary" onclick="location.href='login_organization.php'">
