@@ -16,10 +16,11 @@
 
     .container {
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
       justify-content: center;
       align-items: center;
       height: 100vh;
+      gap: 30px; /* Horizontal spacing between buttons */
     }
 
     .button-group button {
@@ -28,7 +29,6 @@
       color: black;
       width: 200px;
       font-weight: bold;
-      margin: 250px 0;
       transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth scaling and shadow effect */
     }
 
