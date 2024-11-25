@@ -11,7 +11,7 @@
 
   <style>
     body {
-      background-color: #f0f8ff; /* Light blue background */
+      background-color: white; /* Light blue background */
     }
 
     .container {
@@ -22,9 +22,14 @@
       height: 100vh;
     }
 
+    h1 {
+      font-weight: bold; /* Ensures the text is bold */
+      color: #FF8200; /* UTEP orange color */
+    }
+
     .button-group button {
       border: 2px solid black;
-      background-color: #f0f8ff; /* Matches body background */
+      background-color: white; /* Matches body background */
       color: black;
       width: 200px;
       font-weight: bold;
