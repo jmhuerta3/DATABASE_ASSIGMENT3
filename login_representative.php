@@ -11,7 +11,7 @@
 
   <style>
     body {
-      background-color: #f0f8ff; /* Light blue background */
+      background-color: rgba(255, 130, 0, 0.75); /* UTEP orange background color with 75% opacity */
       display: flex;
       justify-content: center;
       align-items: center;
@@ -55,6 +55,11 @@
     .form-control {
       border: 1px solid #041E42; /* Navy border */
     }
+
+    h2 {
+      font-weight: bold;
+    }
+    
   </style>
 </head>
 
