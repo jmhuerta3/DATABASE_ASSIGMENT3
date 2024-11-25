@@ -33,7 +33,7 @@
     }
 
     .button-group button:hover {
-      transform: scale(1.3); /* Increases size by 10% */
+      transform: scale(1.5); /* Increases size by 10% */
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
       cursor: pointer;
     }
