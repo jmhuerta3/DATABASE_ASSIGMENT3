@@ -44,10 +44,10 @@
     <h1>Welcome!</h1>
 
     <div class="button-group">
-      <button class="btn" onclick="location.href='login_organization.php'">
+      <button class="btn" onclick="location.href='login_opportunities.php'">
         View Opportunities
       </button>
-      <button class="btn" onclick="location.href='login_opportunities.php'">
+      <button class="btn" onclick="location.href='login_organization.php'">
         Admin Login
       </button>
       <button class="btn" onclick="location.href='login_representative.php'">
