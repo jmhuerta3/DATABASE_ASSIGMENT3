@@ -11,7 +11,7 @@
 
   <style>
     body {
-      background-color: #FF8200 /* UTEP orange background */
+      background-color: #FF8200; /* UTEP orange background */
       display: flex;
       justify-content: center;
       align-items: center;
@@ -55,11 +55,6 @@
     .form-control {
       border: 1px solid #041E42; /* Navy border */
     }
-
-    h2 {
-      font-weight: bold;
-    }
-    
   </style>
 </head>
 
@@ -85,4 +80,3 @@
 </body>
 
 </html>
-
